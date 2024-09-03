@@ -9,7 +9,10 @@ The sample group was significantly larger (more than tripling from 27,715 in 201
 Trans women are still more common than trans men, in spite of lower overall amab numbers, while afab nonbinaries still vastly outnumber amab ones. Crossdressers remain in the vast minority as well.
 ![alt text](vis_testing/total_survey_gender_distribution.png)
 
-Overall, we still have an afab majority among the general trans population, althought this has slightly improved.
+Trans women's lead over trans men's numbers has increased noticeably.
+![alt text](vis_testing/total_survey_binary_distr.png)
+
+Overall, we still have an afab majority among the general trans population, although this has slightly improved (likely due to the increase in trans women's/decrease in trans men's percentages).
 ![alt text](vis_testing/total_survey_direction_distribution.png)
 
 Supposing that an equal amount of either birthsex *is* (medically speaking) transgender, and in the knowledge that detransitioners who detransition due to legitimately not being trans after all are a dismissibly small minority,
