@@ -30,7 +30,7 @@ Among the nonbinary participants, afab nonbinaries remain in the vast majority, 
 
 Around the time of the first survey, the reigning theory in the community (source: me, who came out as NB in 2014) for why there were less amab nonbinaries than afab ones was that it was due to lack of nonbinary awareness among amab people. That -given time and awareness raising for nonbinary as a concept in wider society- that number would balance out eventually and we would have a roughly equal amount of amab and afab NBs, the same as trans men and women were roughly balanced.
 
-TURNS OUT THIS WAS INCORRECT. 
+*TURNS OUT THIS WAS INCORRECT.*
 
 Despite an increase in the community's numbers at large due to more awareness and the pandemic forcing people to sit with themselves (= current reigning theories in the community) (source: me, who (as just one example) attended Trans Pride Brighton in 2019 and 2022 and can attest to a *significant* increase in attendance between the two events.) as well as in the sample size of the 2022 survey, the percentage of amab nonbinaries has remained almost stagnant in these 7 years of trans and nb awareness raising.
 ![alt text](vis_testing/survey_nb_distr.png)
@@ -38,7 +38,7 @@ Despite an increase in the community's numbers at large due to more awareness an
 What change there has been has been a slight increase to all identities other than trans men and crossdressers, who lost percentages, trans men's percentage being hit the hardest with a 4 percent point drop.
 ![alt text](vis_testing/survey_gender_distr_comp.png)
 
-I believe this is a sign that:
+<!-- I believe this is a sign that:
 
 - <ins>The amab/afab nonbinary split is caused by things other than trans/nonbinary awareness, such as people's ability to pass and gender roles.</ins>
 
@@ -92,10 +92,68 @@ I believe this is a sign that:
 
     - Ex. An amab or physically masculine looking person wearing a skirt is highly transgressive if they identify as a man, but expected and highly irrelevant to the male gender role if they identify as nonbinary, leaving the male status quo intact. 
     
-        If this is a medically transmasculine person or an amab person who genuinely does not plan on physically transitionning, that likely means they could reasonably claim the male label if they wanted to, yet they don't.
+        If this is a medically transmasculine person or an amab person who genuinely does not plan on physically transitionning, that likely means they could reasonably claim the male label if they wanted to, yet they don't. -->
+
+### Possible causes for these discrepencies
+
+Supposing that inherent reasons for transgenderism of any label and direction are equally balanced in the population between birth assignments, these stark discrepencies must have other explanations.
+
+#### Transmascs and transfemmes move in opposite directions between gender roles.
+
+- More people coming from the female gender role feel able to come out as trans, but less than half of them currently claim the male gender role instead. This points to more freedom to (at least in label) leave the female gender role's domain, but more pressure not to join the male one.
+
+- Less people coming from the male gender role feel able to come out as trans, but the vast majority of those who do claim the female gender role instead. This points to more pressure to (at least in label) stick to the male gender role, but more incentive to join the female one once you've left it.
+
+This is likely the consequence of the past century of feminism improving the female gender role and stigmatising the male one by promoting manhate and misandry. 
+
+- The male gender role has not been liberated, leading to narrower standards and more pressure, and girls are indoctrinated to hate men, disincentivising transmascs from claiming the male label, even if they're literally accessing masculinising medical treatment. By keeping the nonbinary label they can exist outside of the female gender role without having to commit to the male gender role and all its downsides.
+
+- Meanwhile the female gender role brings perks like empathy, aesthetics, desirability, as well as all the perks previously reserved for the male gender role, like jobs, bank accounts, *pants*, etc, leaving little merit in keeping the nonbinary label for transfemmes. Boys are taught to be allies to feminism lest they would be a horrible person, so transfemmes will also be significantly less prejudiced against the female gender role than transmascs against the male one.
+
+Besides the increase in general trans awareness, crossdressing communities like femboys and drag gaining popularity seem to be mitigating the effects of the pressure to stay in the male gender role a bit, as they offer a genderqueer space where male identity and femme expression/bodily looks can coexist and be explored without the need to claim an explicitly trans/nb label to do so. 
+
+- We can already see this in the slight increase in the transfemme percentage.
+    
+- And while the crossdresser percentage has decreased from 3% to 2%, this is still a massive increase in participation numbers along with the total, pointing to crossdressing still playing a relevant role in the trans community even with more trans awareness. (If it was a completely niche and outdated concept to be skipped over in a more trans-aware world, presumably that percent would've decreased significantly more.)
+
+- Transfemmes crossdressing before coming out as trans is a well-known phenomenon. (source: any transfemme drag queen, like Bosco or Gigi Goode; various trans women in the public eye, like most recently Harper Steele in the "Will & Harper" (2024) documentary, speaking of their crossdressing past)
+
+#### They also differ in how their bodies and presentation influence passing.
+
+Their bodies developped differently from their cis peers in first puberty, and no matter how much medical transition one undergoes, certain things are harder to change than others and bones for example can't be changed at all (with the exception of *some* facial bones (which is prohibitively expensive and nearly unprecedented for transmascs (source: me, who's had FMS))) after finishing first puberty.
+
+- Estrogen holds back a lot of features while testosterone overgrows them, leading to a lot of transmascs struggling to pass as the correct age even if they pass as male. (source: have some ND Stevenson comics: like [this one](https://substack.com/@gingerhaze/p-135215962), or [this one](https://substack.com/@gingerhaze/p-138118385))
+
+Furthermore women and afab people wearing men's clothes is more normalised than men and amab people wearing women's clothes, leading to transfemmes being more easily identified as not cis than transmascs.
+
+This means that transfemmes have an easier time passing as adult women sooner in their transition, than transmascs do passing as adult men. (source: me, who it took literally a decade, 5+ years of HRT, several surgeries, and finally a complete and utter commitment to masc presentation to pass as male about 95% of the time (still not always 🙃).)
+
+- I can't speak for every last transmasc, but at least for me that was one of the main reasons to stick to the nonbinary label for as long as I did. 
+
+    Passing as what I wanted (the adult non-woman I am) was not an option, so I chose to present in a way that would get me misgendered as an adult woman who would at least be respected as such, rather than misaged as a child and not be treated as an adult (and still risk misgendering anyway). 
+
+    And in absence of the physical reality necessary to call myself a man without feeling like it was a demonstrable lie, nonbinary was the only option for me to be able to cope and access the medical treatment I needed.
+
+    I suspect there are many others in similar positions.
+
 
 ### Conclusion
 
-I believe that, between misaging, internalised misandry, and the stigma and limitations of the male gender role, a lot of trans men/strongly trans-male-aligned people are currently still labelling themselves as nonbinary instead of claiming the male label, and that we are still missing a lot more amab trans people who have yet to come out due to gender role pressures.
+I believe that, between the prevalence of misaging and misgendering for transmascs, internalised misandry and the stigma and limitations of the male gender role, a lot of trans men/strongly trans-male-aligned people are currently still labelling themselves as nonbinary instead of claiming the male label, 
+and that, between gender role pressures and limited opportunity for exploration for amab people, we are still missing a lot more transfemmes who have yet to come out as such.
 
-As gender lib progress happens and people progress in their transitions, I hope to see these numbers balance out, including nonbinary afab numbers finally decreasing, instead joining the trans male block, and amab overall numbers continuing to increase.
+As gender lib progress happens and people progress in their exploration and transitions, I hope to see these numbers balance out, including nonbinary afab numbers finally decreasing, instead joining the trans male block, and amab overall numbers continuing to increase.
+
+#### Change
+
+One thing to keep in mind with this community is that it is defined by change. Not merely in the sense of transition, but across the board. Our labels, attitudes, choices and needs can change over time. We learn things about ourselves, we conceptualise ourselves differently, and the world sees us differently. 
+
+Even the most binary of transitions is not a binary switch like that wording may imply, it is an arduous, messy, time-consuming process. Genderqueer spaces like crossdressing or the nonbinary label are means for people to cope with that. 
+
+Studies like these, while incredibly insightful, can only ever track the current usage of labels by fluctuating subsets of the community, not the actual truth that lies underneath them, and we need to keep that in mind when analysing their data. 
+
+These scewed numbers do not indicate that inexplicably afab people are more likely to *be* nonbinary, or the only amab people who come out are trans women and the missing percent of trans guys just won't come out for some reason. 
+
+They indicate that amab and afab people use labels differently, even when they are experiencing the same phenomenon (in this case that of transgenderism and genderqueerness). 
+
+And I want my community to finally grapple with that.
