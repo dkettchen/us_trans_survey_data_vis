@@ -110,15 +110,16 @@ This is likely the consequence of the past century of feminism improving the fem
 
 - Meanwhile the female gender role brings perks like empathy, aesthetics, desirability, as well as all the perks previously reserved for the male gender role, like jobs, bank accounts, *pants*, etc, leaving little merit in keeping the nonbinary label for transfemmes. Boys are taught to be allies to feminism lest they would be a horrible person, so transfemmes will also be significantly less prejudiced against the female gender role than transmascs against the male one.
 
+<!-- 
 Besides the increase in general trans awareness, crossdressing communities like femboys and drag gaining popularity seem to be mitigating the effects of the pressure to stay in the male gender role a bit, as they offer a genderqueer space where male identity and femme expression/bodily looks can coexist and be explored without the need to claim an explicitly trans/nb label to do so. 
 
 - We can already see this in the slight increase in the transfemme percentage.
     
 - And while the crossdresser percentage has decreased from 3% to 2%, this is still a massive increase in participation numbers along with the total, pointing to crossdressing still playing a relevant role in the trans community even with more trans awareness. (If it was a completely niche and outdated concept to be skipped over in a more trans-aware world, presumably that percent would've decreased significantly more.)
 
-- Transfemmes crossdressing before coming out as trans is a well-known phenomenon. (source: any transfemme drag queen, like Bosco or Gigi Goode; various trans women in the public eye, like most recently Harper Steele in the "Will & Harper" (2024) documentary, speaking of their crossdressing past)
+- Transfemmes crossdressing before coming out as trans is a well-known phenomenon. (source: any transfemme drag queen, like Bosco or Gigi Goode; various trans women in the public eye, like most recently Harper Steele in the "Will & Harper" (2024) documentary, speaking of their crossdressing past) -->
 
-#### They also differ in how their bodies and presentation influence passing.
+#### They differ in how their bodies and presentation influence passing.
 
 Their bodies developped differently from their cis peers in first puberty, and no matter how much medical transition one undergoes, certain things are harder to change than others and bones for example can't be changed at all (with the exception of *some* facial bones (which is prohibitively expensive and nearly unprecedented for transmascs (source: me, who's had FMS))) after finishing first puberty.
 
@@ -136,11 +137,24 @@ This means that transfemmes have an easier time passing as adult women sooner in
 
     I suspect there are many others in similar positions.
 
+#### Finally due to their different directions & circumstances, there are cultural differences between genderqueer amab & afab people.
+
+I believe that crossdressing in the widest sense (drag, fetish crossdressing, crossdressing in private, theatrical crossdressing, femboys, crossplay (cosplay version), crossplay (video game/digital version)) fulfills a similar exploratory role for amab people that claiming the nonbinary or other queer labels plays for afab ones. (source: transfemme drag queens (like Gigi Goode or Bosco), well-known trans women talking about crossdressing before coming out as trans (like most recently Harper Steele in the documentary "Will & Harper" (2024)), [the prevalence of anime girl avatars in VRchat](https://www.youtube.com/watch?v=5v_Dl7i4Bcw), [femboys who end up coming out as transfemme/accessing medical transition](https://youtu.be/3reFDwM0yIA?si=LcqWDL16hgayxTAb), etc - it is a very well-known phenomenon in relation to the transfemme community at large)
+
+However, in spite of its inclusion in this survey, crossdressing is colloquially generally not considered part of the trans community in the same way nonbinary labels are, meaning crossdressers would've been less likely to respond to a survey aimed specifically at the transgender community.
+
+A lot of crossdressing is also treated less as an identity/something to come out as than nonbinary labels, or happens in private to begin with, so less crossdressers would be "out as" such or consider it a core part of their gender identity as opposed to more of a practice/hobby/preference/etc.
+
+I believe this has led to their numbers being vastly underrepresented in this dataset. 
+
+- I do not think that genderqueer amab people are actually that much less likely to explore and transgress gender than afab ones, I believe it's merely that they are less able to do so publicly and less likely to consider it an identity in its own right the way butch and nonbinary afab people do.
+
+- If we look at crossdresser communities like drag etc, we see a similarly (if not more) unbalanced ratio between high numbers of amab people and low numbers of afab people as we do the other way around in our nonbinary numbers. (f.e. between RuPaul's Drag Race and Dragula, we've (to my understanding) only seen 2 afab performers (one of which was a hyperqueen -> not doing crossdressing drag) on the latter, with the entire rest of the cast across 16+ seasons of drag race and 5 seasons of dragula being amab (which is a much, much smaller minority than the 1/5 amab nonbinaries we see in our data set here).)
 
 ### Conclusion
 
 I believe that, between the prevalence of misaging and misgendering for transmascs, internalised misandry and the stigma and limitations of the male gender role, a lot of trans men/strongly trans-male-aligned people are currently still labelling themselves as nonbinary instead of claiming the male label, 
-and that, between gender role pressures and limited opportunity for exploration for amab people, we are still missing a lot more transfemmes who have yet to come out as such.
+and that, between gender role pressures, limited opportunity for exploration for amab people, and the underrepresentation in this particular dataset of the crossdressing communities fulfilling that role, we are still missing a lot more transfemmes that have yet to come out and/or label their genderqueer identity as such.
 
 As gender lib progress happens and people progress in their exploration and transitions, I hope to see these numbers balance out, including nonbinary afab numbers finally decreasing, instead joining the trans male block, and amab overall numbers continuing to increase.
 
