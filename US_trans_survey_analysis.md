@@ -139,17 +139,25 @@ This means that transfemmes have an easier time passing as adult women sooner in
 
 #### Finally due to their different directions & circumstances, there are cultural differences between genderqueer amab & afab people.
 
-I believe that crossdressing in the widest sense (drag, fetish crossdressing, crossdressing in private, theatrical crossdressing, femboys, crossplay (cosplay version), crossplay (video game/digital version)) fulfills a similar exploratory role for amab people that claiming the nonbinary or other queer labels plays for afab ones. (source: transfemme drag queens (like Gigi Goode or Bosco), well-known trans women talking about crossdressing before coming out as trans (like most recently Harper Steele in the documentary "Will & Harper" (2024)), [the prevalence of anime girl avatars in VRchat](https://www.youtube.com/watch?v=5v_Dl7i4Bcw), [femboys who end up coming out as transfemme/accessing medical transition](https://youtu.be/3reFDwM0yIA?si=LcqWDL16hgayxTAb), etc - it is a very well-known phenomenon in relation to the transfemme community at large)
+I believe that crossdressing in the widest sense (drag, fetish crossdressing, crossdressing in private, theatrical crossdressing, femboys, crossplay (cosplay version), crossplay (video game/digital version)) fulfills a similar exploratory role for amab people that claiming the nonbinary, or other queer labels and exploring gnc expression plays for afab ones. (source: transfemme drag queens (like Gigi Goode or Bosco), well-known trans women talking about crossdressing before coming out as trans (like most recently Harper Steele in the documentary "Will & Harper" (2024)), [the prevalence of anime girl avatars in VRchat](https://www.youtube.com/watch?v=5v_Dl7i4Bcw), [femboys who end up coming out as transfemme/accessing medical transition](https://youtu.be/3reFDwM0yIA?si=LcqWDL16hgayxTAb), etc - it is a very well-known phenomenon in relation to the transfemme community at large)
+
+- This is obviously not to say that every crossdressing amab person will end up being transfemme (in a transitional or medical sense), just like not every genderqueer afab person ends up being transmasc (we support our cis gnc siblings in this house), but just as with genderqueer afab people, these exploratory practices end up being an important first stop on the trans journey of a decent portion of them.
 
 However, in spite of its inclusion in this survey, crossdressing is colloquially generally not considered part of the trans community in the same way nonbinary labels are, meaning crossdressers would've been less likely to respond to a survey aimed specifically at the transgender community.
 
-A lot of crossdressing is also treated less as an identity/something to come out as than nonbinary labels, or happens in private to begin with, so less crossdressers would be "out as" such or consider it a core part of their gender identity as opposed to more of a practice/hobby/preference/etc.
+A lot of crossdressing is also treated less as an identity/something to come out as than nonbinary labels, or happens in private to begin with, unlike afab gnc expression, so less crossdressers would be "out as" such or consider it a core part of their everyday gender identity as opposed to more of a practice/hobby/preference/etc.
 
 I believe this has led to their numbers being vastly underrepresented in this dataset. 
 
-- I do not think that genderqueer amab people are actually that much less likely to explore and transgress gender than afab ones, I believe it's merely that they are less able to do so publicly and less likely to consider it an identity in its own right the way butch and nonbinary afab people do.
+- I do not think that genderqueer amab people are actually that much less likely to explore and transgress gender than afab ones, I believe it's merely that they are less able to do so publicly and less likely to consider it an identity in its own right/claim explicit labels for it the way butch and nonbinary afab people do.
 
-- If we look at crossdresser communities like drag etc, we see a similarly (if not more) unbalanced ratio between high numbers of amab people and low numbers of afab people as we do the other way around in our nonbinary numbers. (f.e. between RuPaul's Drag Race and Dragula, we've (to my understanding) only seen 2 afab performers (one of which was a hyperqueen -> not doing crossdressing drag) on the latter, with the entire rest of the cast across 16+ seasons of drag race and 5 seasons of dragula being amab (which is a much, much smaller minority than the 1/5 amab nonbinaries we see in our data set here).)
+- If we look at crossdresser communities like drag etc, we see a similarly (if not more due to the inclusion of their cis population) unbalanced ratio between high numbers of amab people and low numbers of afab people as we do the other way around in our nonbinary numbers. 
+
+    - Between RuPaul's Drag Race and Dragula, we've (to my understanding) only seen 2 afab performers (one of which was a hyperqueen -> not doing crossdressing drag) on the latter, with the entire rest of the cast across 16+ seasons of drag race and 5 seasons of dragula being amab. 
+
+    - Also a lot more drag kings are transmasc rather than cis women, while transfemmes among the drag queens, while more prevalent in drag than elsewhere, are still generally in the minority compared to their cis-male peers. -> Drag does not seem to function as as much of an exploratory space for afab folks as it does for amab ones.
+
+- -> I believe this is where our missing transfemme "nonbinaries" are hanging out.
 
 ### Conclusion
 
@@ -166,7 +174,7 @@ Even the most binary of transitions is not a binary switch like that wording may
 
 Studies like these, while incredibly insightful, can only ever track the current usage of labels by fluctuating subsets of the community, not the actual truth that lies underneath them, and we need to keep that in mind when analysing their data. 
 
-These scewed numbers do not indicate that inexplicably afab people are more likely to *be* nonbinary, or the only amab people who come out are trans women and the missing percent of trans guys just won't come out for some reason. 
+These scewed numbers do not indicate that inexplicably afab people are more likely to *be* nonbinary and noone crossdresses anymore, or that the only amab people who come out are trans women and the missing percent of trans guys just won't come out for some reason. 
 
 They indicate that amab and afab people use labels differently, even when they are experiencing the same phenomenon (in this case that of transgenderism and genderqueerness). 
 
